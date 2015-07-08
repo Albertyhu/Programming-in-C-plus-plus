@@ -1,4 +1,4 @@
-//Polynomials: In this program, user enders polynomials. The program process each character in the string that the user inputs and stores them in nodes. 
+//Polynomials: In this program, user enters polynomials. The program process each character in the string that the user inputs and stores them in nodes. 
 //Day 2 of work: Got it successfully copy the users input and display them on screen. Got it successfully to calculate equations based on user's input of variable x 
 //Day 3: It took awhile, but I finally got add_like function to work 
 //12/8/2014: finally got it done and working properly 
